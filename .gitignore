@@ -1,0 +1,10 @@
+node_modules/
+.ipynb_checkpoints/
+__pycache__
+notebooks/
+docs/
+*.pyc
+venv
+staticfiles
+.env
+*.sqlite3
